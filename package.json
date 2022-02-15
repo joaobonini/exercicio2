@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/joaobonini.exercicio2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 6TzAdACt0WYIxDv061wB --open"
+  }
+}
